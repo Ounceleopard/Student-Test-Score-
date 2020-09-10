@@ -7,11 +7,11 @@
 	
 	CSCI-373 (FALL 2020) (Prof. Abdu) (Assignment 1) (John Jay College) 
 	-----------------------------------------------------------------------------------
-	o Assign a grade (A, B, C, D, or F) based on a student’s test score 	  -Line 38-
+	o Assign a grade (A, B, C, D, or F) based on a studentâ€™s test score 	  -Line 38-
 	o Display class data (Class test average, Maximun and Minimum test score) -Line 80-
-	o A loop structure (for-loop, while-loop, or do-while-loop) 			  -Line 73-
-	o Conditional processing (if-then-else) 								  -Line 42-
-	o Arrays 																  -Line 71-
+	o A loop structure (for-loop, while-loop, or do-while-loop) 	          -Line 73-
+	o Conditional processing (if-then-else) 				  -Line 42-
+	o Arrays 								  -Line 71-
 */
 
 #include <iostream> 
